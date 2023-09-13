@@ -1,4 +1,4 @@
-# represoři
+# represoři.cz
 
 Eshop prodávající náčiní proti protestantům, imperialistům atd.
 

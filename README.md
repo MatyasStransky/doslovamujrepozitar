@@ -6,3 +6,4 @@ Eshop prodávající náčiní proti protestantům, imperialistům atd.
 
 * Lukáš Hrubý
 * Jan Mittasch
+* Matyáš Stránský

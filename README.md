@@ -1,8 +1,8 @@
-# KSČM
+# represoři
 
 Eshop prodávající náčiní proti protestantům, imperialistům atd.
 
-## komouši
+## soudruzi
 
 * Lukáš Hrubý
 * Jan Mittasch
